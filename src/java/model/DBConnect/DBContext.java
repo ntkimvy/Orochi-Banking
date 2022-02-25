@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 
 
 public interface DBContext {
-    public static String serverName = "THANHNHAN";
+    public static String serverName = "LAPTOP-4FK4JU7O\\SQLEXPRESS";
     public static String dbName = "OROCHIBANKING";
     public static String portNumber = "1433";
     public static String userID = "sa";
